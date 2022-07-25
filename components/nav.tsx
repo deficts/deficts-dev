@@ -10,7 +10,7 @@ export const Nav = () => {
                 </a>
             </div>
             <div className="flex flex-shrink-0 hover:bg-black">
-                <a href="blog" className='font-bold text-xl md:text-4xl hover:text-white p-1'>
+                <a href="/blog" className='font-bold text-xl md:text-4xl hover:text-white p-1'>
                     Blog.
                 </a>
             </div>
